@@ -1,1 +1,1 @@
-# sql_data_warehouse_project
+# sql-data-warehouse-End-to-End-project
